@@ -1,5 +1,7 @@
 
-## Hi there 👋, It's me Habiba
+# Hi there 👋, It's me Habiba
+**MERN Stack & Full Stack Developer | Frontend Enthusiast | Open to Collaboration | Bangladesh**
+
 [<img src='https://pbs.twimg.com/profile_banners/1776478013720551425/1735149526/1500x500' alt='Habiba'>](https://github.com/HabibaAnika)
 
 <p>
@@ -7,8 +9,6 @@
 🖊️ I Love codeing <br> 
 🎤 Like to share my knowledge <br>
 👯 I’m looking to collaborate on github <br> 
-📫 How to reach me: anikahabiba50@gmail.com <br>
-😄 Pronouns: she/her 
 </p> 
 
 <p align="left"> <a href="https://x.com/HabibaAnik65452" target="blank"><img src="https://img.shields.io/twitter/follow/HabibaSultana?logo=twitter&style=for-the-badge" alt="@HabibaAnik65452" /></a> </p>
@@ -16,8 +16,10 @@
 ## 🚀 About Me
 "I am a dedicated MERN Stack Developer with hands-on experience designing and building responsive, scalable, and dynamic web applications. Proficient in React.js, Node.js, MongoDB, and Express.js, I also bring expertise in front-end tools like Tailwind CSS and Bootstrap to create seamless and visually appealing user interfaces. Driven by a passion for delivering exceptional user experiences, I am committed to continuous learning and staying ahead of the curve with the latest technologies."
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/binate.harun) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binate.harun)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anikahabiba50@gmail.com) 
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -40,15 +42,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ☕ Connect with me!
-  <a href="https://www.facebook.com/binate.haruna/" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true" alt="facebook" height="40">
-  </a>
-  <a href="https://www.instagram.com/mdjaed38/" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true" alt="instagram" height="40">
-  </a>
-  <a href="https://x.com/HabibaAnik65452" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true" alt="twitter" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/habibasultana49" style="display: inline-block;">
-    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true" alt="linkedin" height="40">
-  </a>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/binate.haruna/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdjaed38/)
+[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HabibaAnik65452)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibasultana49)
+
+
