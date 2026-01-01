@@ -16,14 +16,15 @@
 ## 🚀 About Me <hr/>
 "I am a dedicated MERN Stack Developer with hands-on experience designing and building responsive, scalable, and dynamic web applications. Proficient in React.js, Node.js, MongoDB, and Express.js, I also bring expertise in front-end tools like Tailwind CSS and Bootstrap to create seamless and visually appealing user interfaces. Driven by a passion for delivering exceptional user experiences, I am committed to continuous learning and staying ahead of the curve with the latest technologies."
 
-Skills : REACT / JS / HTML / CSS / NODE JS / MONGODB
+Skills :  HTML / CSS / TAILWIND CSS / REACT / JS / NODE JS / MONGODB / EXPRESS JS
 
 ## 👨‍💻 Skills & Experiance: 
+✅ HTML5 / CSS3 / Tailwind / Bootstrap  <br>
 ✅ REACT <br> 
 ✅ JavaScript <br>
 ✅ NODE JS <br>
-✅ HTML5 / CSS3 / Tailwind / Bootstrap  <br>
 ✅ MONGODB <br>
+✅ Express JS <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaAnika)](https://github.com/anuraghazra/github-readme-stats)
 
