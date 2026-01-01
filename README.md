@@ -29,18 +29,24 @@
 
 ### 📊 GitHub Statistics
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderhabiba&show_icons=true&theme=radical" alt="Stats" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderhabiba&layout=compact&theme=radical" alt="Top Langs" />
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderhabiba&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Habiba's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderhabiba&layout=compact&theme=radical" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderhabiba&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderhabiba&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderhabiba&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderhabiba&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderhabiba&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=coderhabiba&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
