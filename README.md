@@ -2,7 +2,7 @@
 **MERN Stack & Full Stack Developer | Frontend Enthusiast | Bangladesh**
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1776478013720551425/1735149526/1500x500" alt="Habiba Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://i.ibb.co.com/gLZgQM4c/Screenshot-2026-01-01-215129.png" alt="Habiba Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 ### 💫 About Me
