@@ -33,9 +33,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderhabiba&layout=compact&theme=radical" alt="Top Langs" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderhabiba&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+
 
 
 ### 🏆 GitHub Trophies
