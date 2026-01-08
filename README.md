@@ -37,10 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderhabiba&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderhabiba&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderhabiba&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -64,6 +60,4 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=coderhabiba&icon=0&color=0" alt="Visitor Count" />
-</p>
+
